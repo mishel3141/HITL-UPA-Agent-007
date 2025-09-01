@@ -13,12 +13,12 @@
 
 > Вимоги:
 - Python 3.8+
-- `matplotlib`, `seaborn`, `numpy`, `pandas`
+- див. `requirements.txt`
 
 > Установка (опційно віртуальне середовище):
 ```bash
-git clone https://github.com/yourusername/HITL-UPA-Agent.git
-cd HITL-UPA-Agent
+git clone https://github.com/mishel3141/HITL-UPA-Agent-007.git
+cd HITL-UPA-Agent-007
 pip install -r requirements.txt
 
 Запуск:
